@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2025-04-04
+  Features:
+    - Initial release of NM - Scaled Recipes.
+    - Adds optional high-throughput recipes for iron plates, copper plates, and steel beams.
+    - Each recipe can be toggled individually via mod settings.
+    - Localisation available in English and German.
+    - All scaled recipes now dynamically adjust ingredient amounts, output quantity and crafting time based on this setting.

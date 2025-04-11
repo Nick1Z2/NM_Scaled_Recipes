@@ -1,0 +1,17 @@
+{
+ "name": "NM_Scaled_Recipes",
+ "version": "1.0.0",
+ "title": "Scaled Recipes",
+ "author": "Nick1Z2",
+ "contact": "",
+ "homepage": "",
+ "dependencies": 
+	[
+		"base >= 2.0",
+		"? quality",
+		"? space-age",
+		"? Load-Furn-2-SpaceAgeFix"
+	],
+ "description": "Adds scalable versions of selected recipes to support higher throughput production.",
+ "factorio_version": "2.0"
+ }
