@@ -8,8 +8,8 @@ data:extend
     category = "smelting",
     auto_recycle = false,
     energy_required = 3.2 * Multi,
-    ingredients = {{type = "item", name = "copper-ore", amount = Multi}},
-    results = {{type="item", name="copper-plate", amount= Multi}},
+    ingredients = {{type = "item", name = "copper-ore", amount = 1 * Multi}},
+    results = {{type="item", name="copper-plate", amount= 1 * Multi}},
     allow_productivity = true
   }
 })

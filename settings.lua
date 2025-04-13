@@ -21,6 +21,27 @@ data:extend(
 		setting_type = "startup",
 		default_value = true
 	},
+	{
+		type = "bool-setting",
+		name = "NM_Enable_Steinziegel_scale",
+		order = "ad",
+		setting_type = "startup",
+		default_value = true
+	},
+	{
+		type = "bool-setting",
+		name = "NM_Enable_Kupferdraht_scale",
+		order = "ae",
+		setting_type = "startup",
+		default_value = true
+	},
+	{
+		type = "bool-setting",
+		name = "NM_Enable_Zahnrad_scale",
+		order = "af",
+		setting_type = "startup",
+		default_value = true
+	},
     {
         type = "int-setting",
         name = "NM_Scale_rate",

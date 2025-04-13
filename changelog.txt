@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2025-04-13
+  Features:
+    - Added scaled recipes for stone bricks, copper cables, and gear wheels.
+    - Each new recipe can be individually enabled via mod settings.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2025-04-12
   Compatibility:
