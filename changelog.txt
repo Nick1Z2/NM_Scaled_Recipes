@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 2025-04-13
+  Compatibility:
+    - Added support for "Space Age": 'Scaled Copper Cables' can now be crafted in the magnetics facility.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 2025-04-13
   Features:

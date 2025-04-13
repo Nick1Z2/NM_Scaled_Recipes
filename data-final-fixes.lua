@@ -8,6 +8,7 @@ table.insert(data.raw["technology"]["electronics"].effects, {
 })
 
 if mods["space-age"] then
+data.raw.recipe["NM_copper-cable"].category = "electronics"
 table.insert(data.raw["technology"]["steel-plate-productivity"].effects, {
   type = "change-recipe-productivity",
   recipe = "NM_steel-plate",
