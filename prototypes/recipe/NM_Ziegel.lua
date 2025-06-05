@@ -10,6 +10,7 @@ data:extend
     enabled = true,
     ingredients = {{type = "item", name = "stone", amount = 2 * Multi}},
     results = {{type="item", name="stone-brick", amount=1 * Multi}},
-    allow_productivity = true
+    allow_productivity = true,
+	order = "e"
   }
 })

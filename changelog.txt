@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 2025-06-05
+  Bugfixes:
+    - Fixed issue where scaled smelting recipes (iron, copper, steel, stone brick) were prioritized
+      over vanilla recipes in furnaces.
+    - Adjusted recipe order values to ensure vanilla smelting recipes are used by default.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.3
 Date: 2025-04-13
   Compatibility:
